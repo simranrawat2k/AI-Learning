@@ -1,0 +1,5 @@
+Python is a high-level programming language.
+
+A virtual environment creates an isolated Python environment.
+
+Python is widely used in AI, web development, and automation.
